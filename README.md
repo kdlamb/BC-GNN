@@ -1,6 +1,6 @@
 # BC-GNN
 Zero-Shot Learning of Aerosol Optical Properties with Graph Neural Networks
-
+![](MSTMGNN.png)
 ## Overview
 This repository contains a PyTorch implementation of the code for the paper "Zero-Shot learning of aerosol optical properties with graph neural networks".
 
