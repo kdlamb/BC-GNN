@@ -10,7 +10,7 @@ The preprint for this paper can be found at:
 
 ```
 @article{Lamb2021,
-  title={Unsupervised Learning of Predictors for Microphysical Process Rates},
+  title={Zero-Shot Learning of Aerosol Optical Properties with Graph Neural Networks},
   author={Lamb, K.D. and P. Gentine},
   journal={arXiv preprint arXiv:2107.10197},
   year={2021}
